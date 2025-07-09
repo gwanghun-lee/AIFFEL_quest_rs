@@ -11,7 +11,7 @@ AIFFEL_quest_rs
 .		.
 .		.
 .		.
-│   └── Quest08
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 .
@@ -33,7 +33,7 @@ AIFFEL_quest_rs
     .
     .
     .
-    └── GD18
+    └── GD09
         ├── .ipynb
         └── README.md
 ```
