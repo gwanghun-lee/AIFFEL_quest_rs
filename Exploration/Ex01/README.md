@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 박광훈
+- 코더 : 이광훈
 - 리뷰어 : 김석영
 
 
