@@ -54,6 +54,6 @@ deep lab v3 모델로 해결되지 않은 경계선의 디테일이 떨어지는
 # 클릭이 가능하지 않은 환경에서 해결책을 찾은 것이 인상 깊었습니다.
 # SAM 모델이 궁금해서 찾아보았는데, 참고할 수 있는 이미지를 아래 첨부했습니다.
 
-<img width="1226" height="615" alt="Image" src="https://github.com/user-attachments/assets/9400339b-3d5b-4110-b657-7e71d1324d2b" />
 
 ```
+<img width="1226" height="615" alt="Image" src="https://github.com/user-attachments/assets/ba67791b-3667-4141-b8f3-316e6500b6ca" />
